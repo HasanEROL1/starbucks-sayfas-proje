@@ -6,5 +6,5 @@ Bu proje, HTML ve CSS ile tasarlanarak yapılmıştır. Sayfa, Starbucks'ın tem
   <li>HTML: Sayfa yapısını oluşturmak için kullanılmıştır.</li>
 <li>CSS: Sayfa stilini oluşturmak için kullanılmıştır.</li>
   </ul>
-Kullanım
+<h4>Kullanım</h4>
 Projeyi bilgisayarınıza klonladıktan sonra, index.html dosyasını herhangi bir tarayıcıda açarak projenin nasıl göründüğünü inceleyebilirsiniz.
